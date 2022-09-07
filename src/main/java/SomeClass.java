@@ -3,6 +3,7 @@ public class SomeClass {
     {
         System.out.println("Some class main called");
         System.out.println("Some class main change 1");
+        System.out.println("Some class main change 2");
 
     }
 }
